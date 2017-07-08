@@ -1,0 +1,8 @@
+*.iml
+.idea
+/target
+/*/target
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
